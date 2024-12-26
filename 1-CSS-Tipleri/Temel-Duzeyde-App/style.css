@@ -1,0 +1,6 @@
+label {
+    background-color: red;
+}
+input[type="checkbox"]:checked + label {
+    background-color: yellow;
+}
